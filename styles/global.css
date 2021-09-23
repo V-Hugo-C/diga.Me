@@ -6,18 +6,18 @@
     box-sizing: border-box;
 }
 html{
-    --black: #363631
-    --white: #FAFAFA
-    --red: #E83F5B
-    --light-yellow: #EBFF09
-    --yellow: #FAFF0B
-    --background: #FBFCFF
-    --overlay: #040911
-    --icon-details:#A5B0C1
+    --black: #363631;
+    --white: #FAFAFA;
+    --red: #E83F5B;
+    --light-yellow: #EBFF09;
+    --yellow: #FAFF0B;
+    --background: #FBFCFF;
+    --overlay: #040911;
+    --icon-details:#A5B0C1;
 
-    --grey-dark: #4D5E77
-    --grey-blue: #A1B2CD
-    --grey-light: #E5EAF1
+    --grey-dark: #4D5E77;
+    --grey-blue: #A1B2CD;
+    --grey-light: #E5EAF1;
 
     font-size: 62.5% 
 }   
